@@ -8,6 +8,7 @@ This app enables users to communicate in real-time through public or private cha
 ## 📌 Project Overview:
 This project is a real-time chat application that allows users to join public and private chat rooms, send direct messages, and receive instant notifications.  
 The system will be built using **React (Vite)** for the frontend, **Node.js** for the backend, and **Socket.IO** for real-time communication.
+<img src="Assets/1.png"/>
 
 ---
 

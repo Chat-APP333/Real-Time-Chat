@@ -64,13 +64,7 @@ The system will be built using **React (Vite)** for the frontend, **Node.js** fo
 1. Clone the repository.
 ```bash
 git clone https://github.com/YOUR_USERNAME/real-time-chat-app.git
-```
-```bash
 cd real-time-chat-app
-```
-```bash
 npm install
-```
-```bash
 npm run dev
 ```
